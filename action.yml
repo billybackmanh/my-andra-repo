@@ -1,0 +1,6 @@
+# action.yml
+name: HelloWorld
+description: HelloWorld
+runs:
+  using: 'docker'
+  image: 'billybackmanh/helloworld'
